@@ -1,0 +1,5 @@
+
+–squid:S1192!"Define a constant instead of duplicating this literal "-------------------------------------------------------------" 10 times.(ï¾
+Rsquid:S1854Æ":Remove this useless assignment to local variable "result".(İ¥Ë
+|squid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+Csquid:S1481Æ"+Remove this unused "result" local variable.(İ¥Ë

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <beans>
+        <bean id="simpleUrlHandlerMapping"
+              class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+            <property name="mappings">
+                <props>
+                    <prop key="/index">HelloController</prop>
+                </props>
+            </property>
+        </bean>
+        <!--spring mvc视图定位-->
+        <bean id="internalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+            <!--前缀-->
+            <property name="prefix" value="WEB-INF/content"></property>
+            <!--后缀-->
+            <!--<property name="suffix" value=".jsp"></property>-->
+        </bean>
+        <bean id="HelloController" class="cn.vpclub.springmvc.HelloController"></bean>
+    </beans>
+</beans>

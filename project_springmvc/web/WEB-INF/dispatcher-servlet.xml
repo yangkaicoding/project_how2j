@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <beans>
+        <!--使用注解的方式进行跳转设置-->
+        <!--表示从包controller下扫描有@controller注解的类-->
+        <!--<context:component-scan base-package="controller" />-->
+
+        <!--spring mvc视图定位 :指的是代码写法不变，但是页面会跳到/WEB-INF/content/index.jsp-->
+        <bean id="internalResourceViewResolver"
+              class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+            <!--前缀-->
+            <property name="prefix" value="WEB-INF/content"></property>
+            <!--后缀-->
+            <!--<property name="suffix" value=".jsp"></property>-->
+        </bean>
+
+        <!--<bean id="simpleUrlHandlerMapping"-->
+              <!--class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">-->
+            <!--<property name="mappings">-->
+                <!--<props>-->
+                    <!--<prop key="/index">HelloController</prop>-->
+                <!--</props>-->
+            <!--</property>-->
+        <!--</bean>-->
+        <!--<bean id="HelloController" class="cn.vpclub.springmvc.HelloController"></bean>-->
+    </beans>
+</beans>

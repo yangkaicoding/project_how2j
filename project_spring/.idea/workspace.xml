@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20f84c91-f53a-4988-ad82-7743ab184053" name="Default Changelist" comment="">
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__cglib_cglib_3_2_8.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__cglib_cglib_nodep_3_2_8.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__ch_netzwerg_paleo_core_0_11_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_alibaba_easyexcel_1_1_2_beta5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_caucho_hessian_4_0_51.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_fge_json_patch_1_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_java_json_tools_json_schema_core_1_2_8.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_java_json_tools_json_schema_validator_2_2_8.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_8_0_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_core_demo_facade_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_core_demo_framework_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_common_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_configure_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_framework_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_job_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_locale_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_mq_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_mybatis_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_redis_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_swagger_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_vphonor_central_vp_central_start_web_1_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_xuxueli_xxl_job_core_2_0_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_xuxueli_xxl_rpc_core_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_feign_httpclient_9_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_0_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_0_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_swagger2markup_markup_document_builder_1_1_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_github_swagger2markup_swagger2markup_1_3_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_all_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_buffer_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_codec_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_common_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_handler_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_resolver_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_1_1_33_Fork26.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_transport_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_swagger_swagger_compat_spec_parser_1_0_35.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_swagger_swagger_core_1_5_19.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_swagger_swagger_parser_1_0_35.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_vavr_vavr_0_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_vavr_vavr_match_0_9_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_context_log4j2_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_7_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka11_2_7_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_9_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_34.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_4_11.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__net_sourceforge_jchardet_jchardet_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__nl_jworks_markdown_to_asciidoc_markdown_to_asciidoc_1_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_ant_ant_1_10_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_3_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_15.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_2_26_v20180806.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_2_26_v20180806.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_26_v20180806.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_2_26_v20180806.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_26_v20180806.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_ow2_asm_asm_6_2_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_25.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__tk_mybatis_mapper_4_0_3.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/vp-central-demo-service/vp-central-demo-service-goods/vp-central-demo-service-goods.iml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/vp-central-demo-service/vp-central-demo-service-order/vp-central-demo-service-order.iml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/vp-central-demo-service/vp-central-demo-service-user/vp-central-demo-service-user.iml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/vp-central-demo-service/vp-central-service-demo.iml" afterDir="false" />
+      <change afterPath="D:/project_Pro/project_demo/server/vp-central-demo/vp-central-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_rabbitmq_direct/REMADE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_rabbitmq_direct/src/main/java/cn/vpclub/how2j/rabbitmq/rabbitmq02/MessageCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_rabbitmq_direct/src/main/java/cn/vpclub/how2j/rabbitmq/rabbitmq02/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_rabbitmq_direct/src/main/java/cn/vpclub/how2j/rabbitmq/rabbitmq02/RabbitmqUtil.java" afterDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-1357705826-1196818366-611485892-1001/$IVPVTW7" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-1357705826-1196818366-611485892-1001/$RVPVTW7" beforeDir="false" />
+      <change beforePath="D:/Documents/documents" beforeDir="false" />
+      <change beforePath="D:/code_source" beforeDir="false" />
+      <change beforePath="D:/project_Pro/admin" beforeDir="false" />
+      <change beforePath="D:/project_Pro/common" beforeDir="false" />
+      <change beforePath="D:/project_Pro/community" beforeDir="false" />
+      <change beforePath="D:/project_Pro/information-csc" beforeDir="false" />
+      <change beforePath="D:/project_Pro/order" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/project_core/core-dev/vp-central-core/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="D:/project_Pro/sailor" beforeDir="false" />
+      <change beforePath="D:/project_Pro/sailor.rar" beforeDir="false" />
+      <change beforePath="D:/project_Pro/userinfo-csc" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/SpringBoot-master.iml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/sonarlint/issuestore/1/e/1e6458bb935d4b2b5be2e59527621ac4ec946e5e" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/sonarlint/issuestore/8/6/8657c70374eb0ac24706dbd1bd18323925cca9ce" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/src/main/java/cn/vpclub/SpringBootmaster/SpringBootMasterApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/src/main/java/cn/vpclub/web/HelloController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringBoot-master/SpringBoot-master/src/test/java/cn/vpclub/SpringBootmaster/SpringBootMasterApplicationTests.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/SpringCloud-master.iml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_7_5.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/1/3/1397b2aee98f7d4a8a6fa62ae80280dd8cc26561" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/1/c/1cde988a91e604802eabcf19bc113e55efbe60fb" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/2/6/260fa41f7b08d10048459f4bd4339dc2946a990f" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/3/f/3f989cef9ac272b1d6aa73fe97923bd3c09bad95" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/4/0/4072b96699231dda53660cc95a840257863bbab2" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/5/1/5195f72e80be23550743bdb661b1b2925518da45" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/5/4/54e83dd861bff754bf44b257152f10c78738a457" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/b/0/b05a84c45a1bcede32a7ed734bee39c0e9b5d633" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/b/8/b8632d2981df4aff55ebc6052322fbaf7cf24ca8" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/d/a/da29eaf935765b3a22d81d20cde580b6c0d3d821" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/d/f/dfdbf8d53830da5770dc16f2050b0172a00b88b7" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/e/2/e2294d884db5493e3b59be6dd2dc9243d93c45cf" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/README.md" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/discovery/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/discovery/src/main/java/discovery/DiscoveryApplicaion.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/discovery/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/discovery/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/discovery/target/classes/discovery/DiscoveryApplicaion.class" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/gateway/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/gateway/src/main/java/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service/src/main/java/service/ServiceApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service2/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service2/src/main/java/service2/Service2Application.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-master/SpringCloud-master/service2/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-sinotrans-csc/question-answer/question-answer-provider/src/main/java/cn/vpclub/answer/provider/storages/mapper/ExamQuestionMapper.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/SpringCloud-sinotrans-csc/question-answer/question-answer-provider/src/main/resources/mapper/ExamQuestionMapper.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/eureka-server" beforeDir="false" />
+      <change beforePath="D:/project_dev/shaxian" beforeDir="false" />
+      <change beforePath="D:/project_dev/sinotrans-csc/sinotrans-csc/eureka-server" beforeDir="false" />
+      <change beforePath="D:/project_dev/sinotrans-csc/sinotrans-csc/question-answer" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/consumer.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/provider.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/readme.md" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/ConsumerApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/config/UserInfoGrpcConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/entity/User.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/entity/UserInfo.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/model/request/UserInfoPageParam.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/rpc/UserInfoRpcService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/rpc/UserRpcService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/service/UserInfoService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/service/UserService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/web/UserController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/java/cn/vpclub/mobile/office/web/UserInfoController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/proto/user.proto" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/proto/userinfo.proto" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-consumer/中兴微品微服务研发指南.pdf" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/sql/user.sql" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/ProviderApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/config/MyBatisPlusConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/entity/User.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/entity/UserInfo.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/mapper/UserInfoMapper.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/model/request/UserInfoPageParam.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/rpc/UserInfoRpc.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/rpc/UserRpc.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/service/IUserInfoService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/service/IUserService.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/service/impl/UserInfoServiceImpl.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/java/cn/vpclub/mobile/office/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/proto/user.proto" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/proto/userinfo.proto" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/resources/application-stage.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/resources/mapper/UserInfoMapper.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-college-java/micro-service-provider/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/mvnw" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/ConsumerApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/config/AlipayConfig.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/CloseController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/NotifyController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/PagePayController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/QueryController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/RefundController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/RefundQueryController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/java/cn/vpclub/alipay/demo/web/ReturnController.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/alipay-service-consumer/src/test/java/cn/vpclub/alipay/demo/AlipayServiceConsumerApplicationTests.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/.gitignore" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/mvnw" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/mvnw.cmd" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/pom.xml" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/src/main/java/cn/vpclub/microserviceprovider/MicroServiceProviderApplication.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="D:/project_dev/vp-yangkai-java/micro-service-provider/src/test/java/cn/vpclub/microserviceprovider/MicroServiceProviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="D:/project_dev/yangkai" beforeDir="false" />
+      <change beforePath="D:/project_gitHab/SpringBoot-NT-Electronic-Commerce" beforeDir="false" />
+      <change beforePath="D:/project_gitHab/SpringBoot-aliPay" beforeDir="false" />
+      <change beforePath="D:/project_gitHab/SpringBoot-college" beforeDir="false" />
+      <change beforePath="D:/project_gitHab/SpringCloud-shaxian-snack" beforeDir="false" />
+      <change beforePath="D:/project_pro/eureka-server" beforeDir="false" />
+      <change beforePath="D:/project_pro/question-answer" beforeDir="false" />
+      <change beforePath="D:/project_pro/shaxian" beforeDir="false" />
+      <change beforePath="D:/project_pro/spring-cloud-demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="D:/project_text/new 1.txt" beforeDir="false" />
+      <change beforePath="D:/project_text/new 2.txt" beforeDir="false" />
+      <change beforePath="D:/project_text/new 3.txt" beforeDir="false" />
+      <change beforePath="D:/project_text/new 4.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-701963139">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="266" />
+          <entry key="xml" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="266" />
+          <entry key="XML" value="62" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-780602300">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/domain/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/spring-config.xml" />
+        <option value="$PROJECT_DIR$/src/domain/HelloWorld.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>BPMN 2.0 configuration errors</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyGroovy</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Mybatis</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pages Navigation Model</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project_spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project_spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project_spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591754326038" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_springboot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domain.HelloWorld" />
+      <module name="project_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_project_spring" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52625" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f84c91-f53a-4988-ad82-7743ab184053" name="Default Changelist" comment="" />
+      <created>1560323738938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560323738938</updated>
+      <workItem from="1560323743947" duration="2842000" />
+      <workItem from="1560340596363" duration="892000" />
+      <workItem from="1578453163277" duration="280000" />
+      <workItem from="1591753441863" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4886000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20048505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.09665427" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32899627" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Jelastic" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

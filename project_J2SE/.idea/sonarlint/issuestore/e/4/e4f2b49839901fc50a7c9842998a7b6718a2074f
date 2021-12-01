@@ -1,0 +1,7 @@
+
+”squid:S1192g"qDefine a constant instead of duplicating this literal "å½“å‰ç³»ç»Ÿæ—¶é—´æ¨åä¸€ä¸ªæœˆçš„æ—¶é—´ä¸ºï¼š" 3 times.(Æ¾†şÿÿÿÿ8çÌƒ«™-
+Fsquid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©µ¬«™-
+rsquid:S1192%"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 6 times.(¾øõå8µÈªª™-
+Fsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÁÇª™-
+wsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "t".(èïß8Ùîÿ«™-
+squid:S1488K"aImmediately return this expression instead of assigning it to the temporary variable "finalTime".(¶¸Š÷8ò¦«™-

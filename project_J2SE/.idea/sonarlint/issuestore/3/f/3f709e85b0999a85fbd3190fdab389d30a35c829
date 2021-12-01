@@ -1,0 +1,14 @@
+
+Gsquid:S2140D")Use "java.util.Random.nextInt()" instead.(ã¹˜Ş8¹ºˆÒê,
+Bsquid:S1659_"Declare "y" on a separate line.(îôÓ¢şÿÿÿÿ8–¿¶Óê,
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(òı‘‹úÿÿÿÿ8Ğ§áĞê,
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(ôÌÂıÿÿÿÿ8½ìçĞê,
+Lsquid:S2140C")Use "java.util.Random.nextInt()" instead.(ÒÄèØùÿÿÿÿ8¹ºˆÒê,
+Lsquid:S2140F")Use "java.util.Random.nextInt()" instead.(Çİ¤´ÿÿÿÿÿ8¹ºˆÒê,
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ÕÙ¼Óê,
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(‡³ã…8½ìçĞê,
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(ü”Ş²8½ìçĞê,
+Fsquid:S2140X")Use "java.util.Random.nextInt()" instead.(ƒä¥8šƒ¥Óê,
+Bsquid:S1659_"Declare "x" on a separate line.(îôÓ¢şÿÿÿÿ8–¿¶Óê,
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(Ş…Á”ıÿÿÿÿ8½ìçĞê,
+Gsquid:S2140E")Use "java.util.Random.nextInt()" instead.(·„áã8¹ºˆÒê,
