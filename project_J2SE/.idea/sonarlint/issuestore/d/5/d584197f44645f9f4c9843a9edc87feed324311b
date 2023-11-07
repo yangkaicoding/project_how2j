@@ -1,6 +1,0 @@
-
-{squid:S00116"^Rename this field "CHINA_ID_MAX_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ûôáþÿÿÿÿ
-=squid:S1170"!Make this final field static too.(“Ûôáþÿÿÿÿ
-8squid:S1170"!Make this final field static too.(ß„»ñ
-vsquid:S00116"^Rename this field "CHINA_ID_MIN_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß„»ñ
-Wsquid:S1854M";Remove this useless assignment to local variable "sGender".(¿ “öýÿÿÿÿ

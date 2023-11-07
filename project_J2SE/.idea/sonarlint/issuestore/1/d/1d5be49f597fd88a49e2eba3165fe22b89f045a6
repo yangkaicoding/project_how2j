@@ -1,13 +1,0 @@
-
-gsquid:S3027a"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(£ €a8Ğ¦£˜®-
-Msquid:S00108T")Either remove or fill this block of code.(âÃƒŠıÿÿÿÿ8îïÉ—®-
-Qsquid:S1481_".Remove this unused "finshTime" local variable.(í¥Ù‰ÿÿÿÿÿ8ï˜˜®-
-Psquid:S1135J"2Complete the task associated to this TODO comment.(šÉå8îïÉ—®-
-nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(É®ÿ¥ıÿÿÿÿ8îïÉ—®-
-isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ÔÂÄ¢8îïÉ—®-
-hsquid:S3027e"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(×Áå¸8Şî¯˜®-
-jsquid:S00101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òßêàúÿÿÿÿ
-Qsquid:S1481".Remove this unused "startTime" local variable.(ì¼”îùÿÿÿÿ8ãŞÉ—®-
-`squid:S1854"=Remove this useless assignment to local variable "startTime".(ì¼”îùÿÿÿÿ8ãŞÉ—®-
-^squid:S1854";Remove this useless assignment to local variable "endTime".(‡•ü¨úÿÿÿÿ8‰’ì˜®-

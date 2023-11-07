@@ -11,8 +11,9 @@ package cn.vpclub.javabasic.review.domain;
 public abstract class Item {
 
     /**
-     * 技巧：类的多态条件 1：父类(接口)的引用指向子类的对象
-     *                   2：调用的方法有重写
+     * 技巧：类的多态条件
+     * 1：父类(接口)的引用指向子类的对象
+     * 2：调用的方法有重写
      */
 
     //设置名称属性

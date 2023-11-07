@@ -1,7 +1,5 @@
 package cn.vpclub.javabasic.review.domain;
 
-import cn.vpclub.javabasic.review.domain.Item;
-
 /**
  * <p>
  * Java基础回顾——多态

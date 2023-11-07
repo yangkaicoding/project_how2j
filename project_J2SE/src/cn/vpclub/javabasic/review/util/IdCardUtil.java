@@ -4,16 +4,20 @@ import java.util.Calendar;
 
 public class IdCardUtil {
 
-    /** 中国公民身份证号码最小长度。 */
-    public  final int CHINA_ID_MIN_LENGTH = 15;
+    /**
+     * 中国公民身份证号码最小长度。
+     */
+    public final int CHINA_ID_MIN_LENGTH = 15;
 
-    /** 中国公民身份证号码最大长度。 */
-    public  final int CHINA_ID_MAX_LENGTH = 18;
+    /**
+     * 中国公民身份证号码最大长度。
+     */
+    public final int CHINA_ID_MAX_LENGTH = 18;
+
     /**
      * 根据身份编号获取年龄
      *
-     * @param idCard
-     *            身份编号
+     * @param idCard 身份编号
      * @return 年龄
      */
     public static int getAgeByIdCard(String idCard) {
@@ -48,8 +52,7 @@ public class IdCardUtil {
     /**
      * 根据身份编号获取生日月
      *
-     * @param idCard
-     *            身份编号
+     * @param idCard 身份编号
      * @return 生日(MM)
      */
     public static Short getMonthByIdCard(String idCard) {
@@ -59,8 +62,7 @@ public class IdCardUtil {
     /**
      * 根据身份编号获取生日天
      *
-     * @param idCard
-     *            身份编号
+     * @param idCard 身份编号
      * @return 生日(dd)
      */
     public static Short getDateByIdCard(String idCard) {
@@ -71,7 +73,7 @@ public class IdCardUtil {
      * 根据身份编号获取性别
      *
      * @param idCard 身份编号
-     * @return 性别(M-男，F-女，N-未知)
+     * @return 性别(M - 男 ， F - 女 ， N - 未知)
      */
     public static String getGenderByIdCard(String idCard) {
         String sGender = "未知";
@@ -85,9 +87,8 @@ public class IdCardUtil {
         return sGender;
     }
 
-
-    public static  void  main(String [] a){
-        String idCard="460200199209275127";
+    public static void main(String[] a) {
+        String idCard = "460200199209275127";
         String sex = getGenderByIdCard(idCard);
         System.out.println("性别:" + sex);
 
@@ -99,7 +100,7 @@ public class IdCardUtil {
         Short date = getDateByIdCard(idCard);
         System.out.print(year + "年" + month + "月" + date + "日");
 
-        String sr=getBirthByIdCard(idCard);
+        String sr = getBirthByIdCard(idCard);
         System.out.println("生日:" + sr);
     }
 }

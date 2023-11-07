@@ -13,9 +13,5 @@ public class HelloWorld {
     public static void main(String[] args) {
         //2.输出helloWorld
         System.out.println("helloWorld");
-
-
-
-
     }
 }

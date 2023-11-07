@@ -1,7 +1,0 @@
-
-osquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŸÒüÿÿÿÿ
-Csquid:S1602p",Remove useless curly braces around statement(‚ºØà
-Hsquid:S1602|",Remove useless curly braces around statement(û¶ìŒøÿÿÿÿ
-Hsquid:S1602c",Remove useless curly braces around statement(É´óûÿÿÿÿ
-¢squid:S1192g"…Define a constant instead of duplicating this literal "--------------------------------------------------------------------" 4 times.(–¦ûµùÿÿÿÿ
-]squid:S1192d"FDefine a constant instead of duplicating this literal "value" 3 times.(ü‚”Ï

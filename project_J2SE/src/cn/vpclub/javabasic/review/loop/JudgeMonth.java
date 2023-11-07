@@ -12,9 +12,9 @@ import java.util.Scanner;
  */
 public class JudgeMonth {
     /**
-     * 技巧：1.switch语句的每个case关键字都用于判断一个常量并作出相应的业务处理，熟练掌握switch语句之后可以组合
-     *        多个case来完成多条件的处理，就是多个常量结果执行相同的业务处理，反向利用了case穿透现象
-     *      2.switch语句中的case穿透现象，在语法上break是可以省略的，当没有break时，会出现穿透现象，也就是case不与表达式进行匹配，而直接执行下一个case中的语句
+     * 技巧：
+     * 1.switch语句的每个case关键字都用于判断一个常量并作出相应的业务处理，熟练掌握switch语句之后可以组合多个case来完成多条件的处理，就是多个常量结果执行相同的业务处理，反向利用了case穿透现象
+     * 2.switch语句中的case穿透现象，在语法上break是可以省略的，当没有break时，会出现穿透现象，也就是case不与表达式进行匹配，而直接执行下一个case中的语句
      */
     public static void main(String[] args) {
         //创建输入流扫描器

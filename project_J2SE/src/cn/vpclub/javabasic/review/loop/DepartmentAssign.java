@@ -26,9 +26,9 @@ public class DepartmentAssign {
      *
      * 实例中使用switch语句对员工应聘的语言进行判断，但该语句只支持常量的判断，且常量只能是基本数据类型，JDK1.7后支持String类的字符串对象的判断
      *
-     * 技巧：1.在switch语法中每个case关键字都可以作为一个条件分支，但是对于多个条件采取相同业务处理的情况，可以把多个case语句分支
-     *       关联在一起，省略它们之间的break语句，而在最后一个相同的case分支中实现业务处理并执行break语句
-     *       2.JDK版本低于1.7时，使用switch语句判断String类的字符串对象，可以通过String类的hashCode()方法获得字符串对象的哈希码，然后通过哈希码进行判断
+     * 技巧：
+     * 1.在switch语法中每个case关键字都可以作为一个条件分支，但是对于多个条件采取相同业务处理的情况，可以把多个case语句分支关联在一起，省略它们之间的break语句，而在最后一个相同的case分支中实现业务处理并执行break语句
+     * 2.JDK版本低于1.7时，使用switch语句判断String类的字符串对象，可以通过String类的hashCode()方法获得字符串对象的哈希码，然后通过哈希码进行判断
      *
      */
     public static void main(String[] args) {

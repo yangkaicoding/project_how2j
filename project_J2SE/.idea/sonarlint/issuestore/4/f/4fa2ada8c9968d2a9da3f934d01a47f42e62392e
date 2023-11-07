@@ -1,28 +1,0 @@
-
-[
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8é¡ÔÚñ,
-U
-squid:S106."9Replace this use of System.out or System.err by a logger.(ÔÉ8òÏÚñ,
-V
-squid:S106I"9Replace this use of System.out or System.err by a logger.(–½Şé8›Ø¶Úñ,
-V
-squid:S106R"9Replace this use of System.out or System.err by a logger.(–½Şé8ıëòÚñ,
-[
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ŒÒ¯ùÿÿÿÿ8é¢¢Òñ,
-Ksquid:S1604C"(Make this anonymous inner class a lambda(É¿¿ùøÿÿÿÿ8ê—óÒñ,
-V
-squid:S106)"9Replace this use of System.out or System.err by a logger.(–½Şé8´ÍÒñ,
-[
-squid:S106K"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8›Ø¶Úñ,
-[
-squid:S106+"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8…ÈìÒñ,
-[
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8é‚ÓÒñ,
-Ksquid:S16046"(Make this anonymous inner class a lambda(É¿¿ùøÿÿÿÿ8«ÖæÒñ,
-[
-squid:S106T"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8ıëòÚñ,
-ƒsquid:S1192&"`Define a constant instead of duplicating this literal "-------------------------------" 6 times.(ç‘ë®üÿÿÿÿ8ÌâïÒñ,
-V
-squid:S106<"9Replace this use of System.out or System.err by a logger.(–½Şé8ÒóÖÒñ,
-[
-squid:S106>"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8ÌâïÒñ,

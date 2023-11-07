@@ -1,14 +1,0 @@
-
-Xsquid:S2209"5Change this instance-reference to a static reference.(òîøÈúÿÿÿÿ8ş“•®-
-©%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8ğ¸¸É®-
-Ssquid:S2209"5Change this instance-reference to a static reference.(·™Èá8ş“•®-
-Ssquid:S2209"5Change this instance-reference to a static reference.(­ü¿Ò8ş“•®-
-jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
-Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œµ¦–®-
-Fsquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£­ –®-
-Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»öç•®-
-Fsquid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œµ¦–®-
-Ssquid:S2209"5Change this instance-reference to a static reference.(»ö€¡8ş“•®-
-Rsquid:S2209"5Change this instance-reference to a static reference.(™ùN8ş“•®-
-Ssquid:S2209"5Change this instance-reference to a static reference.(»ö€¡8ş“•®-
-hsquid:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(¬ü¯-8œµ¦–®-

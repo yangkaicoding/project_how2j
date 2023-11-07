@@ -8,101 +8,60 @@ import java.util.Date;
 import java.util.List;
 
 public class test2 {
-    public static void main(String[] args) {
 
-        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM");
 
-        List<String> timeList = new ArrayList<>();
-        List<String> weeksList = new ArrayList<>();
+    /**
+     * 给定两个起始日期，按照周进行分组
+     *
+     * @param a
+     * @param b
+     * @return
+     * @throws ParseException
+     */
+    public static List<String> groupByWeek(String a, String b) throws ParseException {
 
-        Date date = new Date();
-        String startTime = dateFormat.format(date);
-        Calendar calendar = Calendar.getInstance();
-        calendar.setTime(date);
+        List<String> time = new ArrayList();
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        Date ad = sdf.parse(a);
+        Date bd = sdf.parse(b);
 
-        //得到本周的周一
-        calendar.setFirstDayOfWeek(Calendar.MONDAY);
-        calendar.set(Calendar.DAY_OF_WEEK, calendar.getFirstDayOfWeek());
-        calendar.add(Calendar.WEEK_OF_MONTH, -3);//前三个星期
-//        calendar.set(Calendar.HOUR_OF_DAY, 0);//时
-//        calendar.set(Calendar.MINUTE, 0);//分
-//        calendar.set(Calendar.SECOND, 0);//秒
-        String endTime = dateFormat.format(calendar.getTime());
+        Calendar cl1 = Calendar.getInstance();
+        cl1.setTime(ad);
+        Calendar cl2 = Calendar.getInstance();
+        cl2.setTime(bd);
+        Calendar cl3 = Calendar.getInstance();
 
-        //求四周时间段
-        Date dateTime = new Date();
-        int j = 0;
-        while (j < 4) {
-            Calendar ca = Calendar.getInstance();
-            ca.setTime(dateTime);
-            //计算周
-            int year = ca.get(Calendar.YEAR);
-            int week = ca.get(Calendar.WEEK_OF_YEAR);
-            String twoWeeks = null;
-            if (week / 10 < 1) {
-                twoWeeks = String.valueOf(year) + String.valueOf(0) + String.valueOf(week);
-            } else {
-                twoWeeks = String.valueOf(year) + String.valueOf(week);
-            }
-            weeksList.add(twoWeeks);
-
-            //记录时间根据记录时间获取当周的时间段
-            SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-            Calendar cal = Calendar.getInstance();
-            cal.setTime(dateTime);
-            // 判断要计算的日期是否是周日，如果是则减一天计算周六的，否则会出问题，计算到下一周去了
-            int dayWeek = cal.get(Calendar.DAY_OF_WEEK);// 获得当前日期是一个星期的第几天
-            if (1 == dayWeek) {
-                cal.add(Calendar.DAY_OF_MONTH, -1);
-            }
-            // System.out.println("要计算日期为:" + sdf.format(cal.getTime())); // 输出要计算日期
-            // 设置一个星期的第一天，按中国的习惯一个星期的第一天是星期一
-            cal.setFirstDayOfWeek(Calendar.MONDAY);
-            // 获得当前日期是一个星期的第几天
-            int day = cal.get(Calendar.DAY_OF_WEEK);
-            // 根据日历的规则，给当前日期减去星期几与一个星期第一天的差值
-            cal.add(Calendar.DATE, cal.getFirstDayOfWeek() - day);
-            String imptimeBegin = sdf.format(cal.getTime());
-            // System.out.println("所在周星期一的日期：" + imptimeBegin);
-            cal.add(Calendar.DATE, 6);
-            String imptimeEnd = sdf.format(cal.getTime());
-            // System.out.println("所在周星期日的日期：" + imptimeEnd);
-            String weekBegin = imptimeBegin;
-            String weekEnd = imptimeEnd;
-            String weekTime = weekBegin + "/" + weekEnd;
-
-            //todo 时间是反的
-            //加上包括当前时间的前三周时间段
-            timeList.add(weekTime);
-            //计算上周时间
-            Calendar yesCal = Calendar.getInstance();
-            try {
-                Date yesDay = sdf.parse(weekBegin);
-                yesCal.setTime(yesDay);
-                //减一周，求上周时间
-                yesCal.add(Calendar.DAY_OF_WEEK, -7);
-            } catch (ParseException e) {
-            }
-            dateTime = yesCal.getTime();
-            //计数
-            j++;
+        //判断起始日期为周几
+        if (cl1.get(Calendar.DAY_OF_WEEK) == 1) {
+            time.add(a);
+        } else {
+            cl1.add(Calendar.DAY_OF_MONTH, 8 - cl1.get(Calendar.DAY_OF_WEEK));
+            time.add(a + "/" + sdf.format(cl1.getTime()));
         }
-        System.out.println(timeList);
+        do {
+            cl1.add(Calendar.DAY_OF_MONTH, 1);
+            String s = sdf.format(cl1.getTime());
+            cl1.add(Calendar.DAY_OF_MONTH, 6);
+            time.add(s + "/" + sdf.format(cl1.getTime()));
+            cl3.setTime(cl1.getTime());
+            cl3.add(Calendar.DAY_OF_MONTH, 7);
+        } while (cl3.getTime().getTime() < cl2.getTime().getTime());
+        cl1.add(Calendar.DAY_OF_MONTH, 1);
+        String s = sdf.format(cl1.getTime());
+        if (s.equals(b)) {
+            time.add(s);
+        } else {
+            time.add(s + "/" + b);
+        }
+        return time;
+    }
 
-        for (int i = 0; i < timeList.size(); i++) {
-            //初始化赋值
-            String beginTime = null;
-            String finshTime = null;
-
-            String string1 = timeList.get(i).substring(0, timeList.get(i).lastIndexOf("/"));
-            beginTime = string1;
-            System.out.println(beginTime);
-
-            String string2 = timeList.get(i).substring(timeList.get(i).lastIndexOf("/") + 1);
-            endTime = string2;
-            System.out.println(endTime);
-
-
+    public static void main(String[] args) {
+        try {
+            List<String> list = groupByWeek("2019-04-29", "2019-05-26");
+            System.out.println(list);
+        } catch (ParseException e) {
+            e.printStackTrace();
         }
     }
 }

@@ -14,7 +14,7 @@ public class DeleteFileDirs {
 
     /**
      * 技巧：实例中 使用了File类的isDirectory()方法来检查一个对象是否是文件夹
-     *             再调用.list()方法返回某个目录下的所有文件和目录的文件名，返回的是String数组
+     *            再调用.list()方法返回某个目录下的所有文件和目录的文件名，返回的是String数组
      *            再调用.delete()方法来删除文件目录
      *
      * @param args

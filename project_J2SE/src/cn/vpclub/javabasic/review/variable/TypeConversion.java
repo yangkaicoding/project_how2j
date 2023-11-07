@@ -11,8 +11,7 @@ package cn.vpclub.javabasic.review.variable;
 public class TypeConversion {
 
     /**
-     * 数据类型之间相互进行转换时，低类型向高类型自动进行装换，高类型向低类型需要强制转换，超过取值范围会导致精度丢失
-     * 如果任何运算单元的长度超过int，那么运算结果就按照最长的长度计算，反正就按照int进行计算
+     * 数据类型之间相互进行转换时，低类型向高类型自动进行装换，高类型向低类型需要强制转换，超过取值范围会导致精度丢失，如果任何运算单元的长度超过int，那么运算结果就按照最长的长度计算，反正就按照int进行计算
      */
     public static void main(String[] args) {
         //定义不同数据类型的变量
@@ -39,7 +38,5 @@ public class TypeConversion {
         System.out.println("将double类型强制转换为int类型:"+(int)d);
         //将short类型强制装换为char类型会获取对应编码的字符
         System.out.println("将short类型强制装换为char类型:"+(char)s);
-
-
     }
 }

@@ -10,8 +10,9 @@ package cn.vpclub.javabasic.review.loop;
  */
 public class ErgodicArray {
     /**
-     * 技巧：1.自增自减运算符分为前置自增与后置自增两种，其中前置自增 ++index 会将index的值递增，然后再使用递增后的增，而后置自增 index++ 则会先使用该变量的值，然后再把变量值递增
-     *       2.数组获取长度的手段是.length属性 String类获取长度的手段是length()方法 集合获取长度的手段是size()方法 文件获取长度的手段是length()方法
+     * 技巧：
+     * 1.自增自减运算符分为前置自增与后置自增两种，其中前置自增 ++index 会将index的值递增，然后再使用递增后的增，而后置自增 index++ 则会先使用该变量的值，然后再把变量值递增
+     * 2.数组获取长度的手段是.length属性 String类获取长度的手段是length()方法 集合获取长度的手段是size()方法 文件获取长度的手段是length()方法
      */
     public static void main(String[] args) {
         //创建鸟类数组

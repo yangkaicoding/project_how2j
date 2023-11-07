@@ -36,8 +36,7 @@ public class StringClass {
          * 字符串之间相互比较
          *
          * 技巧：通过字符串函数compare To(String),compareToIgnore(String)来比较两个字符串，并返回字符串中第一个字母ASCII的差值
-         * 思路：两个字符数组依次从前开始比较，如果对象位置出现字符不同则返回两个字符的编码之差，后面的字符不再比较;如果两个字符
-         *      数组的长度不一样，并且较短的数组和较长的数组所有对应位置的字符都相同，则返回两个数组的长度之差
+         * 思路：两个字符数组依次从前开始比较，如果对象位置出现字符不同则返回两个字符的编码之差，后面的字符不再比较;如果两个字符数组的长度不一样，并且较短的数组和较长的数组所有对应位置的字符都相同，则返回两个数组的长度之差
          */
         //定义两个字符串对象
         String str2 = "Hello World";
@@ -81,15 +80,16 @@ public class StringClass {
         /**
          * 字符串替换
          *
-         * 技巧：通过字符串函数replace(char oldChar, char newChar)进行字符串替换，返回一个新的字符串，它是通过newChar替换此字符串中出现的所有oldChar得到的
-         *      通过字符串函数replaceFirst(String regex, String replacement)使用给定的 replacement 替换此字符串匹配给定的正则表达式的第一个子字符串
-         *     通过字符串函数replaceAll(String regex, String replacement)使用给定的 replacement 替换此字符串所有匹配匹配给定的正则表达式的子字符串
+         * 技巧：
+         * 通过字符串函数replace(char oldChar, char newChar)进行字符串替换，返回一个新的字符串，它是通过newChar替换此字符串中出现的所有oldChar得到的
+         * 通过字符串函数replaceFirst(String regex, String replacement)使用给定的 replacement 替换此字符串匹配给定的正则表达式的第一个子字符串
+         * 通过字符串函数replaceAll(String regex, String replacement)使用给定的 replacement 替换此字符串所有匹配匹配给定的正则表达式的子字符串
          */
         //创建一个字符串对象
         String str6 = "Hello World";
         System.out.println(str6.replace('H', 'h'));
-        System.out.println(str6.replaceFirst("He", "Wa"));
         System.out.println(str6.replaceAll("He", "Ha"));
+        System.out.println(str6.replaceFirst("He", "Wa"));
 
         System.out.println("-------------------------------------------------------------");
 
@@ -154,14 +154,17 @@ public class StringClass {
          * 技巧：通过StringTokenizer(String str)工具类，构造一个用来解析str的StringTokenizer对象,java默认的分割符为空格("")、制表符(\t)、换行符(\n)、回车符(\r)
          *
          * 构造方法：StringTokenizer(String str，String delim) 构造一个用来解析str的StringTokenizer对象，并提供一个指定的分割符
-         *          StringTokenizer(String str, String delim, boolean returnDelims) 构造一个用来解析str的StringTokenizer对象，并提供一个指定的分割符，同时，指定是否返回分割符
+         *         StringTokenizer(String str, String delim, boolean returnDelims) 构造一个用来解析str的StringTokenizer对象，并提供一个指定的分割符，同时，指定是否返回分割符
          *
-         * 常用方法：int countTokens():返回nextToken方法被调用的次数
-         *          boolean hasMoreTokens()  :返回是否还有分割符
-         *         boolean hasMoreElements():返回是否还有分割符
-         *        string nextToken()  :返回从当前位置到下一个分隔符的字符串
-         *       object nextElement():返回从当前位置到下一个分隔符的字符串
-         *      string nextToken(String delim): 以指定的分割符返回结果
+         * 常用方法：
+         * int countTokens():返回nextToken方法被调用的次数
+         *
+         * boolean hasMoreTokens()  :返回是否还有分割符
+         * boolean hasMoreElements():返回是否还有分割符
+         *
+         * string nextToken()  :返回从当前位置到下一个分隔符的字符串
+         * object nextElement():返回从当前位置到下一个分隔符的字符串
+         * string nextToken(String delim): 以指定的分割符返回结果
          *
          * 方法2：
          */
@@ -220,9 +223,5 @@ public class StringClass {
         Long endTime2 = System.currentTimeMillis();
         //打印耗时
         System.out.println("使用stringBuffer拼接字符串耗时为" + (endTime2 - startTime2) + "ms");
-
-
     }
-
-
 }

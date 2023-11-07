@@ -9,6 +9,7 @@ package cn.vpclub.javabasic.review.loop;
  * @since: 2018/10/11 18:38
  */
 public class LoopStatement {
+
     public static void main(String[] args) {
 
         //打印九九乘法表
@@ -40,5 +41,4 @@ public class LoopStatement {
             System.out.println("洪乞丐第"+i+"天的收入为"+1 * Math.pow(2, i - 1));
         }
     }
-
 }

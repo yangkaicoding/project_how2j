@@ -10,9 +10,10 @@ package cn.vpclub.javabasic.review.designPattern;
  */
 public class GiantDragon1 {
     /**
-     * 技巧：单例模式三要素：1 构造方法私有化
-     *                      2 静态属性指向实例
-     *                     3 public static的getInstance()方法，返回第二步的静态属性
+     * 技巧：单例模式三要素：
+     * 1：构造方法私有化
+     * 2：静态属性指向实例
+     * 3：public static的getInstance()方法，返回第二步的静态属性
      */
 
     //1.私有化构造方法使得该类无法再外部通过new关键字实例化

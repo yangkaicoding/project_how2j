@@ -10,7 +10,8 @@ package cn.vpclub.javabasic.review.string;
  */
 public class ReplaceString {
     /**
-     * 技巧： replace(CharSequence target, CharSequence replacement),即可以支持字符替换，也可以支持字符串替换
+     * 技巧：
+     * replace(CharSequence target, CharSequence replacement),即可以支持字符替换，也可以支持字符串替换
      * replaceAll(String regex, String replacement) regex表示是正则表达式
      * <p>
      * 常用转义符：
